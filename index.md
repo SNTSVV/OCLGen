@@ -1,4 +1,6 @@
-# Overview of the approach
+# OCLGen
+
+## Overview of the approach
 
 System testing plays a crucial role in safety-critical domains, e.g., automotive, where system test cases are used to demonstrate the compliance of software with its functional and safety requirements. Unfortunately, since requirements are typically written in natural language, significant engineering effort is required to derive test cases from requirements.
 
@@ -9,6 +11,6 @@ OCLgen is an approach which largely automates the generation of the additional f
 Results from an industrial case study show that the approach can automatically and correctly generate more than 75% of the pre- and post-conditions characterizing the activities described in use case specifications.
 
 
-# Data
+## Data
 
 The list of VerbNet classes that are likely/unlikely to appear in use case specifications and the list of VerbNet classes whose members can be processed by means of the meta-verb-transformation rule described in the paper are enclosed in a Excel document that can be downloaded from the following URL .
